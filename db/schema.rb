@@ -1,5 +1,10 @@
 # This file is auto-generated from the current state of the database. Instead
 # of editing this file, please use the migrations feature of Active Record to
+<<<<<<< HEAD
+=======
+# This file is auto-generated from the current state of the database. Instead
+# of editing this file, please use the migrations feature of Active Record to
+>>>>>>> ec51a7ad792c9941f577c140d5fee7c58b34cd03
 # incrementally modify your database, and then regenerate this schema definition.
 #
 # Note that this schema.rb definition is the authoritative source for your
@@ -18,4 +23,8 @@ ActiveRecord::Schema.define(version: 20190203125118) do
     t.decimal "balance"
   end
 
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> ec51a7ad792c9941f577c140d5fee7c58b34cd03
